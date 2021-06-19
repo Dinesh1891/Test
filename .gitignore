@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+db/db.iml
+db/target/
+reports/reports.iml
+reports/target/
+core/target
+core/core.iml
+core/src/test/resources/extent-config.xml
+requests-processor/requests-processor.iml
+requests-processor/target/
+selenium/selenium.iml
+selenium/target/
+services-parent.iml
+*.project
+*.settings/
+*.classpath
+*.BIN
